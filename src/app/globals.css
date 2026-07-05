@@ -1,0 +1,97 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  
+  /* Chart Colors (Forest Green Theme) */
+  --color-chart-1: #2E5E4E; /* Forest Green */
+  --color-chart-2: #7A8F85; /* Sage */
+  --color-chart-3: #2F855A; /* Emerald */
+  --color-chart-4: #C0841A; /* Ochre */
+  --color-chart-5: #B23A48; /* Brick Red */
+  --color-chart-6: #A0A4A8; /* Neutral Gray */
+  
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  
+  /* Custom Status Colors */
+  --color-success: #2F855A;
+  --color-warning: #C0841A;
+  --color-info: #7A8F85;
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: #F7F6F3;
+  --foreground: #1F2933;
+  --card: #FFFFFF;
+  --card-foreground: #1F2933;
+  --popover: #FFFFFF;
+  --popover-foreground: #1F2933;
+  --primary: #2E5E4E;
+  --primary-foreground: #FFFFFF;
+  --secondary: #FFFFFF; /* Buttons should be white by default */
+  --secondary-foreground: #1F2933;
+  --muted: #E6E8EB;
+  --muted-foreground: #6B7280;
+  --accent: #F7F6F3;
+  --accent-foreground: #1F2933;
+  --destructive: #B23A48;
+  --border: #E6E8EB;
+  --input: #E6E8EB;
+  --ring: #2E5E4E;
+  
+  /* Chart Colors for Recharts */
+  --chart-1: #2E5E4E; 
+  --chart-2: #7A8F85;
+  --chart-3: #2F855A;
+  --chart-4: #C0841A;
+  --chart-5: #B23A48;
+
+  --radius: 0.875rem; /* 14px */
+  
+  color-scheme: light;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight text-[#1F2933];
+  }
+  /* Force clean styling */
+  .glass, .backdrop-blur-md, .backdrop-blur-sm, .backdrop-blur-xl, .backdrop-blur-2xl {
+    backdrop-filter: none !important;
+  }
+}
