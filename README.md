@@ -2,132 +2,86 @@
 
 # 🚀 SME Leverage
 
-### **Enterprise Decision Intelligence Platform for Smarter Credit Risk, Cash Flow & Business Growth**
+### Enterprise Decision Intelligence Platform for Smarter Financial Decisions
 
 <p align="center">
-Empowering businesses with intelligent dashboards, financial analytics, buyer intelligence, payment risk assessment, and data-driven decision making.
+Empowering businesses with intelligent analytics, buyer intelligence, payment risk assessment, and cash flow optimization through a modern enterprise dashboard.
 </p>
 
 <p align="center">
 
-### 🌐 Live Demo
-
-https://sme-leverage.vercel.app/
-
-### 💻 GitHub Repository
-
-https://github.com/Nisha-Naik/sme-leverage
+🌐 <a href="https://sme-leverage.vercel.app/">Live Demo</a> •
+💻 <a href="https://github.com/Nisha-Naik/sme-leverage">GitHub</a>
 
 </p>
 
 <p align="center">
 
-⭐ **If you like this project, don't forget to Star the repository!**
+<img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js">
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel">
 
 </p>
+
+⭐ **If you like this project, consider giving it a Star!**
 
 </div>
 
 ---
 
-# 🌟 About the Project
+# ✨ Overview
 
-**SME Leverage** is a modern enterprise-grade financial intelligence platform built to help businesses transform complex financial data into actionable insights.
+**SME Leverage** is a modern **Business Intelligence and Financial Analytics Platform** designed to help organizations make smarter, faster, and data-driven financial decisions.
 
-The platform enables organizations to evaluate buyer credibility, monitor payment risks, analyze cash flow, generate executive reports, and make confident business decisions through interactive dashboards and real-time visualizations.
+The platform transforms complex business data into meaningful insights through interactive dashboards, buyer intelligence, payment risk assessment, cash flow analytics, and executive reporting.
 
-Rather than simply displaying numbers, SME Leverage converts business data into strategic intelligence that supports smarter financial planning, improved operational efficiency, and sustainable business growth.
-
-Designed with scalability, performance, and user experience in mind, the platform demonstrates how modern frontend technologies can solve real-world business challenges faced by SMEs and enterprise finance teams.
+Built with a clean enterprise interface and scalable architecture, SME Leverage demonstrates how modern web technologies can simplify financial analysis while improving strategic business planning.
 
 ---
 
 # 🎯 Problem Statement
 
-Many Small and Medium Enterprises (SMEs) struggle with:
+Small and Medium Enterprises often struggle with fragmented financial data, delayed customer payments, limited visibility into cash flow, and inefficient buyer evaluation.
 
-* Delayed customer payments
-* Poor cash-flow visibility
-* Inefficient buyer evaluation
-* High payment default risk
-* Manual reporting
-* Limited financial intelligence
-* Lack of actionable business insights
-
-SME Leverage addresses these challenges by providing an intelligent analytics platform that helps organizations monitor, analyze, and optimize their financial operations through powerful dashboards and business intelligence.
+SME Leverage addresses these challenges by centralizing financial intelligence into one powerful dashboard, enabling organizations to monitor business performance, reduce financial risk, and make informed decisions with confidence.
 
 ---
 
-# ✨ Key Features
+# ✨ Core Features
 
-## 📊 Executive Dashboard
-
-Monitor business KPIs and financial performance through a centralized dashboard.
-
----
-
-## 👥 Buyer Intelligence
-
-Analyze customer credibility and make informed business decisions.
-
----
-
-## ⚠️ Payment Risk Analysis
-
-Identify potential payment risks before they impact business operations.
-
----
-
-## 💰 Cash Flow Analytics
-
-Track liquidity, revenue movement, and financial trends with interactive visualizations.
-
----
-
-## 🤝 Negotiation Leverage
-
-Strengthen negotiations using financial insights and intelligent recommendations.
-
----
-
-## 📈 Business Insights
-
-Transform raw financial data into meaningful strategic intelligence.
-
----
-
-## 📑 Reports
-
-Generate executive-ready reports for decision makers.
-
----
-
-## ⚙️ Enterprise Dashboard
-
-Professional, responsive, and intuitive user interface designed for modern businesses.
+| Feature | Description |
+|----------|-------------|
+| 📊 Executive Dashboard | Monitor business KPIs and financial performance in one place |
+| 👥 Buyer Intelligence | Evaluate buyer credibility and business relationships |
+| ⚠️ Payment Risk Analysis | Identify payment risks before they impact operations |
+| 💰 Cash Flow Analytics | Visualize liquidity, revenue, and financial trends |
+| 🤝 Negotiation Leverage | Support strategic negotiations using business insights |
+| 📈 Business Insights | Convert complex datasets into actionable intelligence |
+| 📑 Reports | Generate executive-ready reports and summaries |
+| 📱 Responsive Design | Optimized for desktop, tablet, and mobile devices |
 
 ---
 
 # 🚀 Project Highlights
 
-* 📊 Enterprise Financial Dashboard
-* 📈 Interactive Business Analytics
-* 👥 Buyer Intelligence System
-* ⚠️ Payment Risk Assessment
-* 💰 Cash Flow Monitoring
-* 📑 Executive Reporting
-* 🎯 Data-Driven Decision Support
-* 🌙 Modern Enterprise UI
-* ⚡ High Performance
-* 📱 Fully Responsive Design
-* 🎨 Premium User Experience
-* 🚀 Scalable Architecture
+- 📊 Interactive Enterprise Dashboard
+- 📈 Real-Time Business Analytics
+- 💰 Financial Intelligence Platform
+- 👥 Buyer Risk Assessment
+- ⚠️ Payment Risk Monitoring
+- 📑 Executive Reporting
+- 🎨 Modern SaaS Interface
+- 🌙 Professional Enterprise UI
+- ⚡ Fast & Responsive Experience
+- ☁️ Cloud Deployment with Vercel
 
 ---
 
 # 📸 Project Preview
 
-> **Experience the enterprise-grade interface and intelligent dashboards of SME Leverage.**
+> Experience the enterprise-grade interface of **SME Leverage**.
 
 <p align="center">
 <img src="./screenshots/home.png" width="48%">
@@ -159,52 +113,49 @@ Professional, responsive, and intuitive user interface designed for modern busin
 
 ### Frontend
 
-* Next.js
-* React.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
 
 ### UI Components
 
-* shadcn/ui
-* Lucide React
+- shadcn/ui
+- Lucide React
 
 ### Data Visualization
 
-* Recharts
+- Recharts
 
-### Animations
+### Animation
 
-* Framer Motion
+- Framer Motion
 
 ### Development Tools
 
-* Git
-* GitHub
-* npm
+- Git
+- GitHub
+- npm
 
 ### Deployment
 
-* Vercel
+- Vercel
 
 ---
 
 # 💼 Why SME Leverage?
 
-Unlike conventional dashboards that simply present data, SME Leverage focuses on delivering meaningful business intelligence.
+SME Leverage is more than a dashboard—it's a decision intelligence platform designed to bridge the gap between raw financial data and strategic business planning.
 
-The platform combines interactive analytics, financial visualization, enterprise UI design, and decision-support capabilities into a unified experience that enables organizations to make faster, smarter, and more confident business decisions.
+This project demonstrates expertise in:
 
-This project showcases practical expertise in:
-
-* Enterprise Dashboard Development
-* Financial Data Visualization
-* Business Intelligence Solutions
-* Modern Frontend Engineering
-* Responsive Web Design
-* Professional UI/UX Design
-* Scalable Component Architecture
+- Enterprise Dashboard Development
+- Business Intelligence
+- Financial Data Visualization
+- Modern Frontend Engineering
+- Responsive Web Applications
+- Scalable Component Architecture
+- Professional UI/UX Design
 
 ---
 
@@ -218,9 +169,9 @@ sme-leverage/
 ├── src/
 │   ├── app/
 │   ├── components/
+│   ├── lib/
 │   ├── services/
 │   ├── hooks/
-│   ├── lib/
 │   ├── styles/
 │   └── utils/
 │
@@ -251,15 +202,15 @@ cd sme-leverage
 npm install
 ```
 
-### Start the Development Server
+### Start Development Server
 
 ```bash
 npm run dev
 ```
 
-### Open Your Browser
+Open your browser and visit:
 
-```text
+```
 http://localhost:3000
 ```
 
@@ -267,52 +218,52 @@ http://localhost:3000
 
 # 🌍 Live Demo
 
-🚀 **Explore the application here:**
+🚀 **Explore SME Leverage**
 
 https://sme-leverage.vercel.app/
 
 ---
 
-# 🔮 Future Enhancements
+# 🔮 Future Roadmap
 
-* 🤖 AI-Powered Risk Prediction
-* 📊 Predictive Credit Scoring
-* 📈 Machine Learning Analytics
-* 📤 PDF & Excel Export
-* 🔔 Smart Notifications
-* ☁️ Cloud Database Integration
-* 👨‍💼 Multi-Organization Support
-* 🔐 Role-Based Access Control
-* 🌍 Multi-Language Support
-* 📱 Progressive Web App (PWA)
+- 🤖 AI-Powered Financial Insights
+- 📊 Predictive Credit Scoring
+- 📈 Machine Learning Risk Models
+- 📤 PDF & Excel Export
+- 🔔 Smart Notifications
+- ☁️ Cloud Database Integration
+- 👥 Multi-Organization Support
+- 🔐 Role-Based Access Control
+- 🌍 Multi-Language Support
+- 📱 Progressive Web App (PWA)
 
 ---
 
 # 🤝 Contributing
 
-Contributions, ideas, feature requests, and improvements are always welcome.
+Contributions, feature requests, and suggestions are welcome.
 
-Fork the repository, create a feature branch, and submit a pull request to help make SME Leverage even better.
+Feel free to fork the repository, open an issue, or submit a pull request to help improve SME Leverage.
 
 ---
 
-# ⭐ Show Your Support
+# ⭐ Support
 
-If you found this project useful or inspiring, please consider giving it a ⭐ on GitHub.
+If you found this project useful or inspiring, consider giving it a ⭐ on GitHub.
 
-Your support motivates me to continue building impactful software and sharing innovative solutions with the developer community.
+Your support encourages continuous improvement and the development of more impactful open-source projects.
 
 ---
 
 <div align="center">
 
-# 👩‍💻 Designed & Developed by
+## 👩‍💻 Designed & Developed by
 
 # **Nisha Naik**
 
 ### Full Stack Developer • AI Enthusiast • Problem Solver
 
-*"Transforming business challenges into intelligent digital solutions through technology, innovation, and data."*
+*"Transforming business data into intelligent digital experiences."*
 
 ⭐ Star • Fork • Explore • Connect
 
