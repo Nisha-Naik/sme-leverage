@@ -99,9 +99,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Monitor key business metrics, financial KPIs, revenue insights, and overall organizational performance.
 
-<p align="center">
-<img src="./screenshots/dashboard.png" width="90%">
-</p>
+<img width="1912" height="961" alt="image" src="https://github.com/user-attachments/assets/91c0618a-db37-43c4-90e4-3a9d9874bcbb" />
+
 
 ---
 
@@ -109,9 +108,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Analyze customer credibility, evaluate buyer profiles, and make informed business decisions.
 
-<p align="center">
-<img src="./screenshots/buyer-intelligence.png" width="90%">
-</p>
+<img width="1913" height="962" alt="image" src="https://github.com/user-attachments/assets/634256b6-bdfb-436c-86eb-b7b9ddcb535d" />
+
 
 ---
 
@@ -119,9 +117,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Detect payment risks early using intelligent analytics and proactive financial insights.
 
-<p align="center">
-<img src="./screenshots/payment-risk.png" width="90%">
-</p>
+<img width="1907" height="958" alt="image" src="https://github.com/user-attachments/assets/6795df4f-063a-4faa-a43f-c03c2ea9e4e5" />
+
 
 ---
 
@@ -129,9 +126,7 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Visualize cash flow, monitor financial health, and identify revenue trends.
 
-<p align="center">
-<img src="./screenshots/cashflow.png" width="90%">
-</p>
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/6a2686e1-28fc-42da-8a90-c84490ac30d9" />
 
 ---
 
@@ -139,9 +134,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Strengthen negotiations with data-backed recommendations and financial intelligence.
 
-<p align="center">
-<img src="./screenshots/negotiation.png" width="90%">
-</p>
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/897f8c76-12aa-47fa-a9e5-b254d96973aa" />
+
 
 ---
 
@@ -149,9 +143,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Convert complex business data into actionable insights through interactive visualizations.
 
-<p align="center">
-<img src="./screenshots/insights.png" width="90%">
-</p>
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/64db62cb-4c3e-4261-aeba-7a8d34deedda" />
+
 
 ---
 
@@ -159,9 +152,7 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Generate executive-ready reports for business analysis and strategic planning.
 
-<p align="center">
-<img src="./screenshots/reports.png" width="90%">
-</p>
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/36ff9ed1-3599-43b7-8c6e-d2a29092e829" />
 
 ---
 
@@ -169,10 +160,8 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > Personalize the application, manage preferences, and configure the platform for organizational needs.
 
-<p align="center">
-<img src="./screenshots/settings.png" width="90%">
-</p>
----
+<img width="1917" height="947" alt="image" src="https://github.com/user-attachments/assets/aa23fd57-7015-4710-9173-ef409ffc70ea" />
+
 
 # 🛠 Tech Stack
 
