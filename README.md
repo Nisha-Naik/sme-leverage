@@ -78,35 +78,99 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 - ☁️ Cloud Deployment with Vercel
 
 ---
-
 # 📸 Project Preview
 
-> Experience the enterprise-grade interface of **SME Leverage**.
+> **Explore the core modules of SME Leverage through an intuitive, enterprise-grade interface.**
+
+---
+
+### 🏠 Landing Page
+
+> A modern landing page introducing SME Leverage, its mission, core capabilities, and business value.
 
 <p align="center">
-<img src="./screenshots/home.png" width="48%">
-<img src="./screenshots/dashboard.png" width="48%">
+<img src="./screenshots/home.png" width="90%">
 </p>
+
+---
+
+### 📊 Executive Dashboard
+
+> Monitor key business metrics, financial KPIs, revenue insights, and overall organizational performance.
 
 <p align="center">
-<img src="./screenshots/buyer-intelligence.png" width="48%">
-<img src="./screenshots/payment-risk.png" width="48%">
+<img src="./screenshots/dashboard.png" width="90%">
 </p>
+
+---
+
+### 👥 Buyer Intelligence
+
+> Analyze customer credibility, evaluate buyer profiles, and make informed business decisions.
 
 <p align="center">
-<img src="./screenshots/cashflow.png" width="48%">
-<img src="./screenshots/negotiation.png" width="48%">
+<img src="./screenshots/buyer-intelligence.png" width="90%">
 </p>
+
+---
+
+### ⚠️ Payment Risk Analysis
+
+> Detect payment risks early using intelligent analytics and proactive financial insights.
 
 <p align="center">
-<img src="./screenshots/insights.png" width="48%">
-<img src="./screenshots/reports.png" width="48%">
+<img src="./screenshots/payment-risk.png" width="90%">
 </p>
+
+---
+
+### 💰 Cash Flow Analytics
+
+> Visualize cash flow, monitor financial health, and identify revenue trends.
 
 <p align="center">
-<img src="./screenshots/settings.png" width="70%">
+<img src="./screenshots/cashflow.png" width="90%">
 </p>
 
+---
+
+### 🤝 Negotiation Leverage
+
+> Strengthen negotiations with data-backed recommendations and financial intelligence.
+
+<p align="center">
+<img src="./screenshots/negotiation.png" width="90%">
+</p>
+
+---
+
+### 📈 Business Insights
+
+> Convert complex business data into actionable insights through interactive visualizations.
+
+<p align="center">
+<img src="./screenshots/insights.png" width="90%">
+</p>
+
+---
+
+### 📑 Reports
+
+> Generate executive-ready reports for business analysis and strategic planning.
+
+<p align="center">
+<img src="./screenshots/reports.png" width="90%">
+</p>
+
+---
+
+### ⚙️ Settings
+
+> Personalize the application, manage preferences, and configure the platform for organizational needs.
+
+<p align="center">
+<img src="./screenshots/settings.png" width="90%">
+</p>
 ---
 
 # 🛠 Tech Stack
