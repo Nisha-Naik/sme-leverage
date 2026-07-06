@@ -88,9 +88,10 @@ SME Leverage addresses these challenges by centralizing financial intelligence i
 
 > A modern landing page introducing SME Leverage, its mission, core capabilities, and business value.
 
-<p align="center">
-<img src="./screenshots/home.png" width="90%">
-</p>
+
+<img width="1917" height="971" alt="image" src="https://github.com/user-attachments/assets/20b4eef8-5b0f-41ba-97ad-b89cd7c714b3" />
+
+
 
 ---
 
