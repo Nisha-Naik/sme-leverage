@@ -2,6 +2,7 @@
 
 # 🚀 SME Leverage
 
+
 ### Enterprise Decision Intelligence Platform for Smarter Financial Decisions
 
 <p align="center">
